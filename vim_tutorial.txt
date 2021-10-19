@@ -1,4 +1,4 @@
-# vim_tutorial
+vim tutorial
 
 1.	how to open a file in vim from command prompt or terminal?
 	$ vim <file_name>
@@ -111,3 +111,15 @@ miscellaneous command
 5.	how to use macro or save bunch of repeating command?
 	$ q - it will start the then save a letter to start command. use @<save_letter> to execute the command.
 	to end the command use q again.
+
+const arr = [
+	one
+	two	
+	one
+	two	
+	one
+	two	
+	one	
+	two	
+]
+	
